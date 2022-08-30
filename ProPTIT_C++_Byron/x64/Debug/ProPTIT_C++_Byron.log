@@ -1,0 +1,38 @@
+﻿  Ball.cpp
+  Bullet.cpp
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Bullet.cpp(6,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Bullet.cpp(8,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Bullet.cpp(7,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Cannon.cpp
+  Game.cpp
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Game.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Game.cpp(20,46): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Game.cpp(20,40): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Game.cpp(56,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Game.cpp(92,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Game.cpp(93,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Game.cpp(111,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Game.cpp(235,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Game.cpp(274,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Game.cpp(273,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Game.cpp(280,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Game.cpp(279,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Game.cpp(307,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Game.cpp(313,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Game.cpp(377,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Intro.cpp
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Intro.cpp(10,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Intro.cpp(11,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Intro.cpp(12,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Intro.cpp(13,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Object.cpp
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Object.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Object.cpp(10,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Object.cpp(73,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Object.cpp(74,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Object.cpp(80,64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Object.cpp(81,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\ProPTIT_C++_Byron\Object.cpp(126,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Source.cpp
+  Generating Code...
+  ProPTIT_C++_Byron.vcxproj -> C:\Users\Admin\Documents\GitHub\Ball_Blast-Game_CPP_SFML\x64\Debug\ProPTIT_C++_Byron.exe
