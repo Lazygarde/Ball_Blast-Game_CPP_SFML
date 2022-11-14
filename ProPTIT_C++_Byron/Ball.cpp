@@ -1,10 +1,12 @@
 #include "Ball.h"
 
 Ball::Ball()
-{
+{      
 	this->setFillColor(sf::Color::Red);
 	this->setOutlineThickness(1);
 	this->setOutlineColor(sf::Color::Black);
+
+
 }
 
 void Ball::Update(float moveball, float paddlespeed, float deltatime)
